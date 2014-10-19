@@ -1,0 +1,28 @@
+F:\UUWiseCSWrapper\UUWiseCSWrapper\bin\Debug\UUWiseCSWrapper.exe
+F:\UUWiseCSWrapper\UUWiseCSWrapper\bin\Debug\UUWiseCSWrapper.pdb
+F:\UUWiseCSWrapper\UUWiseCSWrapper\obj\x86\Debug\ResolveAssemblyReference.cache
+F:\UUWiseCSWrapper\UUWiseCSWrapper\obj\x86\Debug\UUWiseCSWrapper.Form1.resources
+F:\UUWiseCSWrapper\UUWiseCSWrapper\obj\x86\Debug\UUWiseCSWrapper.Properties.Resources.resources
+F:\UUWiseCSWrapper\UUWiseCSWrapper\obj\x86\Debug\GenerateResource.read.1.tlog
+F:\UUWiseCSWrapper\UUWiseCSWrapper\obj\x86\Debug\GenerateResource.write.1.tlog
+F:\UUWiseCSWrapper\UUWiseCSWrapper\obj\x86\Debug\UUWiseCSWrapper.exe
+F:\UUWiseCSWrapper\UUWiseCSWrapper\obj\x86\Debug\UUWiseCSWrapper.pdb
+F:\Users\MHX\Desktop\UUWiseCSWrapper\UUWiseCSWrapper\obj\x86\Debug\UUWiseCSWrapper.exe
+F:\Users\MHX\Desktop\UUWiseCSWrapper\UUWiseCSWrapper\obj\x86\Debug\UUWiseCSWrapper.pdb
+F:\Users\MHX\Desktop\UUWiseCSWrapper\UUWiseCSWrapper\bin\Debug\UUWiseCSWrapper.exe
+F:\Users\MHX\Desktop\UUWiseCSWrapper\UUWiseCSWrapper\bin\Debug\UUWiseCSWrapper.pdb
+F:\Users\MHX\Desktop\UUWiseCSWrapper\UUWiseCSWrapper\obj\x86\Debug\UUWiseCSWrapper.Form1.resources
+F:\Users\MHX\Desktop\UUWiseCSWrapper\UUWiseCSWrapper\obj\x86\Debug\UUWiseCSWrapper.Properties.Resources.resources
+F:\Users\MHX\Desktop\UUWiseCSWrapper\UUWiseCSWrapper\obj\x86\Debug\UUWiseCSWrapper.csproj.GenerateResource.Cache
+E:\dll易语言和C++C#Demo\UUWiseCSWrapperDemo2014.04.23\UUWiseCSWrapper\UUWiseCSWrapper\obj\x86\Debug\UUWiseCSWrapper.exe
+E:\dll易语言和C++C#Demo\UUWiseCSWrapperDemo2014.04.23\UUWiseCSWrapper\UUWiseCSWrapper\obj\x86\Debug\UUWiseCSWrapper.pdb
+E:\dll易语言和C++C#Demo\UUWiseCSWrapper2014.05.09\UUWiseCSWrapper\UUWiseCSWrapper\obj\x86\Debug\UUWiseCSWrapper.exe
+E:\dll易语言和C++C#Demo\UUWiseCSWrapper2014.05.09\UUWiseCSWrapper\UUWiseCSWrapper\obj\x86\Debug\UUWiseCSWrapper.pdb
+C:\Documents and Settings\Administrator\桌面\UUWiseCSWrapper\UUWiseCSWrapper\obj\x86\Debug\UUWiseCSWrapper.exe
+C:\Documents and Settings\Administrator\桌面\UUWiseCSWrapper\UUWiseCSWrapper\obj\x86\Debug\UUWiseCSWrapper.pdb
+C:\Documents and Settings\Administrator\桌面\UUWiseCSWrapper\UUWiseCSWrapper\bin\Debug\UUWiseCSWrapper.exe
+C:\Documents and Settings\Administrator\桌面\UUWiseCSWrapper\UUWiseCSWrapper\bin\Debug\UUWiseCSWrapper.pdb
+C:\Documents and Settings\Administrator\桌面\UUWiseCSWrapper\UUWiseCSWrapper\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Administrator\桌面\UUWiseCSWrapper\UUWiseCSWrapper\obj\x86\Debug\UUWiseCSWrapper.Form1.resources
+C:\Documents and Settings\Administrator\桌面\UUWiseCSWrapper\UUWiseCSWrapper\obj\x86\Debug\UUWiseCSWrapper.Properties.Resources.resources
+C:\Documents and Settings\Administrator\桌面\UUWiseCSWrapper\UUWiseCSWrapper\obj\x86\Debug\UUWiseCSWrapper.csproj.GenerateResource.Cache
