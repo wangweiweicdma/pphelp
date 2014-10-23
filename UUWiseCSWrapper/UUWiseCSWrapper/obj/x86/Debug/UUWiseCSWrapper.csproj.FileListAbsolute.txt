@@ -26,3 +26,11 @@ C:\Documents and Settings\Administrator\桌面\UUWiseCSWrapper\UUWiseCSWrapper\o
 C:\Documents and Settings\Administrator\桌面\UUWiseCSWrapper\UUWiseCSWrapper\obj\x86\Debug\UUWiseCSWrapper.Form1.resources
 C:\Documents and Settings\Administrator\桌面\UUWiseCSWrapper\UUWiseCSWrapper\obj\x86\Debug\UUWiseCSWrapper.Properties.Resources.resources
 C:\Documents and Settings\Administrator\桌面\UUWiseCSWrapper\UUWiseCSWrapper\obj\x86\Debug\UUWiseCSWrapper.csproj.GenerateResource.Cache
+E:\C#\trunk\UUWiseCSWrapper\UUWiseCSWrapper\obj\x86\Debug\UUWiseCSWrapper.exe
+E:\C#\trunk\UUWiseCSWrapper\UUWiseCSWrapper\obj\x86\Debug\UUWiseCSWrapper.pdb
+E:\C#\trunk\UUWiseCSWrapper\UUWiseCSWrapper\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\C#\trunk\UUWiseCSWrapper\UUWiseCSWrapper\obj\x86\Debug\UUWiseCSWrapper.Form1.resources
+E:\C#\trunk\UUWiseCSWrapper\UUWiseCSWrapper\obj\x86\Debug\UUWiseCSWrapper.Properties.Resources.resources
+E:\C#\trunk\UUWiseCSWrapper\UUWiseCSWrapper\obj\x86\Debug\UUWiseCSWrapper.csproj.GenerateResource.Cache
+E:\C#\trunk\UUWiseCSWrapper\UUWiseCSWrapper\bin\Debug\UUWiseCSWrapper.exe
+E:\C#\trunk\UUWiseCSWrapper\UUWiseCSWrapper\bin\Debug\UUWiseCSWrapper.pdb

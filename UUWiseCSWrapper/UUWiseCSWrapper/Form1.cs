@@ -669,5 +669,60 @@ namespace UUWiseCSWrapper
             
         }
 
+        private void button2_Click_1(object sender, EventArgs e)
+        {
+            Bitmap screenBmp;//保存全屏的截图
+  
+            screenBmp = GetScreen();//获取屏幕图像保存到screenBmp中
+            Bitmap Bmp = new Bitmap(100, 100);
+            using (Graphics g = Graphics.FromImage(Bmp))
+            {
+                Rectangle destRect = new Rectangle(0, 0, 100, 100);//在画布上要显示的区域
+                Rectangle srcRect = new Rectangle(500, 100, 100, 100);//要截取的图像上面的区域
+                g.DrawImage(screenBmp, destRect, srcRect, GraphicsUnit.Pixel);//在screenBmp上截取图像保存到bmp中
+
+                Bmp.Save("c://image.bmp", System.Drawing.Imaging.ImageFormat.Bmp);
+
+            }
+            /*
+            SaveFileDialog saveBmp = new SaveFileDialog();
+            saveBmp.Filter = "bmp格式|*.bmp|jpg格式|*.jpg";//过滤器
+            saveBmp.FileName = "截图";//默认名字
+            saveBmp.ShowDialog();//弹出对话框
+            if (saveBmp.FileName != "")
+            {
+                Bitmap Bmp = new Bitmap(100, 100);//创建新图像（因为刚才那个是直接在窗体上绘制的 保存的时候根据坐标重新绘制一下）
+                using (Graphics g = Graphics.FromImage(Bmp))
+                {
+                    Rectangle destRect = new Rectangle(0, 0, 100, 100);//在画布上要显示的区域
+                    Rectangle srcRect = new Rectangle(0, 0, 100, 100);//要截取的图像上面的区域
+                    g.DrawImage(screenBmp, destRect, srcRect, GraphicsUnit.Pixel);//在screenBmp上截取图像保存到bmp中
+                    if (saveBmp.FilterIndex == 0)
+                    {//判断选中的什么格式 然后保存
+                        Bmp.Save(saveBmp.FileName, System.Drawing.Imaging.ImageFormat.Bmp);
+                    }
+                    else
+                    {
+                        Bmp.Save(saveBmp.FileName, System.Drawing.Imaging.ImageFormat.Jpeg);
+                    }
+                }
+            }
+             * */
+
+          //  this.Close();
+
+        }
+
+        public Bitmap GetScreen()
+        {//获取整个屏幕图像
+            Bitmap bmp = new Bitmap(this.Width, this.Height);
+            using (Graphics g = Graphics.FromImage(bmp))
+            {
+                g.CopyFromScreen(0, 0, 0, 0, this.Size);
+            }
+            return bmp;
+        }
+        
+
     }
 }
